@@ -19,7 +19,7 @@ virtualenv -p python3 env
 source ./env/bin/activate
 ```
 
-###Launch
+### Launch
 Entry point to the program is menu.py,  
 Run the script and put necessary input  
 to generate visualizations.
